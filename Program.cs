@@ -26,7 +26,7 @@ namespace Desafiodio5
                    case "5":
                    VizualizarSeries();
                    break;
-                   case "c":
+                   case "C":
                    Console.Clear();
                    break;
                    default:
